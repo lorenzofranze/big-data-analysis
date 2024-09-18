@@ -2,7 +2,7 @@
 
 The aim of this project is to work on a dataset that contains records of various scientific
 publications in the field of Computer Science. The publications in the dataset include books,
-articles, thesis and others. The analysis is perfomed using **Bid Data methods and No-SQL Databases**.
+articles, thesis and others. The analysis is perfomed using **Big Data methods and No-SQL Databases**.
 
 The first step is to get the dataset from its publisher [dblp.org](https://dblp.org), direct link to the data : [link](https://dblp.uni-trier.de/xml/) and study the documentation
 that comes with it to understand its structure. The row data is an XML file.

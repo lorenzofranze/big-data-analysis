@@ -1,5 +1,7 @@
 # Big data analysis : Systems and Methods for Big and Unstructured Data Project
 
+Developed between October and Decemeber 2023 at Politecnico di Milano
+
 The aim of this project is to work on a dataset that contains records of various scientific
 publications in the field of Computer Science. The publications in the dataset include books,
 articles, thesis and others. The analysis is perfomed using **Big Data methods and No-SQL Databases**.

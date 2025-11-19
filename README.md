@@ -6,6 +6,8 @@ The aim of this project is to work on a dataset that contains records of various
 publications in the field of Computer Science. The publications in the dataset include books,
 articles, thesis and others. The analysis is perfomed using **Big Data methods and No-SQL Databases**.
 
+<img width="400" alt="image" src="https://github.com/lorenzofranze/big-data-analysis/blob/main/image/neo4j.png" />
+
 The first step is to get the dataset from its publisher [dblp.org](https://dblp.org), direct link to the data : [link](https://dblp.uni-trier.de/xml/) and study the documentation
 that comes with it to understand its structure. The raw data is an XML file.
 DBLP contains:
@@ -16,7 +18,7 @@ DBLP contains:
 
 This poses many challenges as the size of the datset is huge (more than 50 GB) and the number of entries is over 7 million records. Records are listed by publication, for this reason, some queries become computationally expensive and even prohibitive (e.g. get all the collaborators of an author), No-SQL Databases and methods for Big Data are deployed to overcome the limitations of relational databases (SQL).
 
-<img width="560" alt="image" src="https://github.com/lorenzofranze/big-data-analysis/blob/main/image/neo4j.png" />
+
 
 
 In the first phase a general analysis of the data is performed. Secondly for each technology data are reshaped to better handle the type of queries and the database used. Lastly the different tools are compared to demonstrate their advantages and drawbacks.

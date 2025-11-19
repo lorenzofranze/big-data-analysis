@@ -16,6 +16,9 @@ DBLP contains:
 
 This poses many challenges as the size of the datset is huge (more than 50 GB) and the number of entries is over 7 million records. Records are listed by publication, for this reason, some queries become computationally expensive and even prohibitive (e.g. get all the collaborators of an author), No-SQL Databases and methods for Big Data are deployed to overcome the limitations of relational databases (SQL).
 
+<img width="1120" height="689" alt="image" src="https://github.com/user-attachments/assets/336621a6-b474-4caa-84cd-f571e4c22958" />
+
+
 In the first phase a general analysis of the data is performed. Secondly for each technology data are reshaped to better handle the type of queries and the database used. Lastly the different tools are compared to demonstrate their advantages and drawbacks.
 
 The following tools are used:
